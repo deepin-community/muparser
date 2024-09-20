@@ -1,3 +1,9 @@
+muparser (2.2.6.1+dfsg-1deepin0) unstable; urgency=medium
+
+  * No source change upload against GCC 12.
+
+ -- Tianyu Chen <sweetyfish@deepin.org>  Fri, 20 Sep 2024 12:14:08 +0800
+
 muparser (2.2.6.1+dfsg-1) unstable; urgency=medium
 
   * Team upload.
